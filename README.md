@@ -1,4 +1,45 @@
-# AWS EMR & Big Data – Projektübersicht
+# Million Song Dataset – Spark SQL und PySpark
+
+In diesem Projekt habe ich mit dem Million Song Dataset in Spark gearbeitet.  
+Der Fokus lag darauf, mit Spark SQL, PySpark und grundlegender Datenverarbeitung zu arbeiten.
+
+## Inhalte
+
+- Daten aus dem Million Song Dataset geladen und untersucht.
+- Mit Spark SQL Tabellen abgefragt und aggregiert.
+- Mit PySpark Segmentdaten verarbeitet.
+- Timbre-Werte in Bins eingeteilt.
+- Profilvektoren pro Track erstellt.
+- Ergebnisse in Spark/Zeppelin kontrolliert.
+
+## Verwendete Techniken
+
+- Spark SQL
+- PySpark
+- Bucketizer
+- Group By, Count, Sum, Case When
+- Normierung von Häufigkeiten
+- Arbeiten mit Hive-Tabellen
+
+## Ergebnis
+
+Am Ende entstand für jeden Track ein Profilvektor mit den relativen Häufigkeiten der Timbre-Bins.  
+Damit kann man Songs besser vergleichen und ihre Lautstärkeverteilung analysieren.
+
+## Screenshots
+
+Die Screenshots zeigen:
+- die SQL-Erstellung der Profilvektoren,
+- die Ausgabe der berechneten Tabelle,
+- und den Spark-Job-Verlauf in Zeppelin.
+
+## Fazit
+
+Das Projekt zeigt praktische Erfahrung mit Spark, Datenaufbereitung und einfacher Feature-Engineering-Pipeline.
+
+
+
+# AWS EMR & Big Data – Projekteinstellungen
 
 ## Kurzbeschreibung
 
