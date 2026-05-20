@@ -1,7 +1,17 @@
-# Million Song Dataset – Spark SQL und PySpark
+# Million Song Dataset – Spark SQL und PySpark 
 
 In diesem Projekt habe ich mit dem Million Song Dataset in Spark gearbeitet.  
 Der Fokus lag darauf, mit Spark SQL, PySpark und grundlegender Datenverarbeitung zu arbeiten.
+
+---
+## Für mehr Details Check the [documentation][docs].
+---
+[docs]:https://github.com/Yacer-Moussa/AWS_Big-Data-Cluster/blob/main/Praktikum1_Di2x-E_FINAL.pdf
+
+## Budget
+
+<img width="1488" height="735" alt="image" src="https://github.com/user-attachments/assets/ddf45986-98c5-49fb-b227-e606a10e9fa9" />
+
 
 ## Inhalte
 
@@ -11,6 +21,9 @@ Der Fokus lag darauf, mit Spark SQL, PySpark und grundlegender Datenverarbeitung
 - Timbre-Werte in Bins eingeteilt.
 - Profilvektoren pro Track erstellt.
 - Ergebnisse in Spark/Zeppelin kontrolliert.
+
+  <img width="1457" height="742" alt="image" src="https://github.com/user-attachments/assets/6330cd76-86cf-47ba-b33a-d45f04ac9b23" />
+
 
 ## Verwendete Techniken
 
@@ -26,12 +39,10 @@ Der Fokus lag darauf, mit Spark SQL, PySpark und grundlegender Datenverarbeitung
 Am Ende entstand für jeden Track ein Profilvektor mit den relativen Häufigkeiten der Timbre-Bins.  
 Damit kann man Songs besser vergleichen und ihre Lautstärkeverteilung analysieren.
 
-## Screenshots
+## Der Spark-Job-Verlauf in Zeppelin
 
-Die Screenshots zeigen:
-- die SQL-Erstellung der Profilvektoren,
-- die Ausgabe der berechneten Tabelle,
-- und den Spark-Job-Verlauf in Zeppelin.
+<img width="1470" height="730" alt="image" src="https://github.com/user-attachments/assets/ca654c6c-f4ef-402d-a9e6-45a5e6620c2d" />
+
 
 ## Fazit
 
