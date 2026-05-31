@@ -10,7 +10,8 @@ Der Fokus lag darauf, mit Spark SQL, PySpark und grundlegender Datenverarbeitung
 
 ## Budget
 
-<img width="1488" height="735" alt="image" src="https://github.com/user-attachments/assets/ddf45986-98c5-49fb-b227-e606a10e9fa9" />
+<img width="1917" height="927" alt="image" src="https://github.com/user-attachments/assets/cef5dc6f-8cf4-4a47-b24c-6790494ba603" />
+
 
 
 ## Inhalte
